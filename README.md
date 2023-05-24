@@ -4,6 +4,8 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
 
+# This is a work in progress FYI
+
 ## About Me
 
 👋 Hello! I am Pete, and I'm a seasoned backend/full-stack engineer who's added real value to teams and projects of all shapes and sizes, using many different languages and technologies!
