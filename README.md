@@ -1,5 +1,5 @@
 <picture>
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://avatars.githubusercontent.com/u/1403866?s=200">
+  <img alt="SOLID Design Principles" src="https://www.interviewbit.com/blog/wp-content/uploads/2022/05/solid-1536x1195.png">
 </picture>
 
 # About Me
