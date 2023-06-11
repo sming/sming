@@ -1,21 +1,17 @@
 <picture>
-   <img alt="Sming headshot" src="https://avatars.githubusercontent.com/u/1403866?s=200">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://avatars.githubusercontent.com/u/1403866?s=200">
 </picture>
 
-# This is a work in progress FYI
-
-## About Me
+# About Me
 
 👋 Hello! I am Pete, and I'm a seasoned backend/full-stack engineer who's added real value to teams and projects of all shapes and sizes, using many different languages and technologies!
 
 <details>
   <summary>🔎 My Ideal Job</summary>
 
-  I was finally let go by Classkick along with a few others after surviving 4 or 5 "reduction in force"'s and hence I am on the looking for something rewarding, stimulating and fun (where possible!) that ideally leaves the World in a better place, even if just a little.
-
-  Three Seed/A-Series companies I've recently worked for have struggled financially and so I'm looking for more financial stability this time: a more mature Start-Up or a fully fledged company.
-
-  In terms of role or position, I like to be the "right hand man" of the team lead or PM. A senior individual contributor who's able to tackle chunky projects, mentor more junior staff, architect subsystems and so on. I am not a team leader, nor a Project Manager 😄
+  - I was finally let go by Classkick along with a few others after surviving 4 or 5 "reduction in force"'s and hence I am on the looking for something rewarding, stimulating and fun (where possible!) that ideally leaves the World in a better place, even if just a little.
+  - Three Seed/A-Series companies I've recently worked for have struggled financially and so I'm looking for more financial stability this time: a more mature Start-Up or a fully fledged company.
+  - In terms of role or position, I like to be the "right hand man" of the team lead or PM. A senior individual contributor who's able to tackle chunky projects, mentor more junior staff, architect subsystems and so on. I am not a team leader, nor a Project Manager 😄
 
 </details>
 
