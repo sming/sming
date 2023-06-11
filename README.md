@@ -19,12 +19,14 @@
 
 <details>
   <summary>My top Languages/Technologies</summary>
+
   | Proficiency | Languages |
   |-----:|-----------|
   |     Expert|  Java             |
   |     Expert|  C#             |
   |     Intermediate| Python              |
   |     Intermediate| AWS, GCP, Containers, K8S             |
+
 </details>
 
 <details>
