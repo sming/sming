@@ -1,5 +1,5 @@
 <picture>
-  <img alt="SOLID Design Principles" src="https://www.interviewbit.com/blog/wp-content/uploads/2022/05/solid-1536x1195.png">
+  <img alt="SOLID Design Principles" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*XOMTPWTpDLypkp079p9XXg.png">
 </picture>
 
 # About Me
