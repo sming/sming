@@ -18,23 +18,36 @@
 |     4 | AWS & GCP              |
 
 <details>
-<summary>My top Languages/Technologies</summary>
-
-| Proficiency | Languages |
-|-----:|-----------|
-|     1| Javascript|
-|     2| Python    |
-|     3| SQL       |
-
-
+  <summary>My top Languages/Technologies</summary>
+  | Proficiency | Languages |
+  |-----:|-----------|
+  |     Expert|  Java             |
+  |     Expert|  C#             |
+  |     Intermediate| Python              |
+  |     Intermediate| AWS, GCP, Containers, K8S             |
 </details>
+
+<details>
+  <summary>🌱 I’m currently learning Python</summary>
+  - I've enjoyed using it to date and feel that its creator and the Python community have done a good job at keeping the ecosystem organized and sane.
+  - It sounds trivial but it isn't: the lack of brackets really reduces visual noise and makes code a good chunk easier to read, it really does.
+  - The list slicing and comprehension syntax is complex and terse but delivers big rewards once you begin to remember the various rules.
+  - One area I need to freshen up on is Multiprocessing. The last time I read about it, the GIL was the big problem, meaning that whilst multithreading was possible, multiprocessing was not as you were effectively limited to 1 process.
+</details>
+
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
+
 <!--
 **sming/sming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
