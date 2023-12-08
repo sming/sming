@@ -1,5 +1,5 @@
 <picture>
-  <img alt="SOLID Design Principles" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*XOMTPWTpDLypkp079p9XXg.png">
+  <img alt="SOLID Design Principles" src="https://miro.medium.com/v2/1*XOMTPWTpDLypkp079p9XXg.png">
 </picture>
 
 # About Me
