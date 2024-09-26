@@ -1,6 +1,4 @@
-<picture>
-  <img alt="SOLID Design Principles" src="https://miro.medium.com/v2/1*XOMTPWTpDLypkp079p9XXg.png">
-</picture>
+<img alt="SOLID Design Principles" src="https://miro.medium.com/v2/1*XOMTPWTpDLypkp079p9XXg.png">
 
 # About Me
 
